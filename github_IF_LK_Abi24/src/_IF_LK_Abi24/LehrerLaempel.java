@@ -4,10 +4,10 @@ import gui.GUI;
 import linear.List;
 import linear.ListWithViewer;
 
-public class Lehrer_Laempel {
+public class LehrerLaempel {
 	private List<String> lieblingsSchueler;
 	
-	public Lehrer_Laempel() {
+	public LehrerLaempel() {
 		lieblingsSchueler = new ListWithViewer<String>();
 		lieblingsSchueler.append("Max");
 		lieblingsSchueler.append("Moritz");
@@ -18,7 +18,7 @@ public class Lehrer_Laempel {
 	}
 	
 	public static void main(String[] args) {
-		Lehrer_Laempel ll = new Lehrer_Laempel();
+		LehrerLaempel ll = new LehrerLaempel();
 		new GUI(ll);
 	}
 }
