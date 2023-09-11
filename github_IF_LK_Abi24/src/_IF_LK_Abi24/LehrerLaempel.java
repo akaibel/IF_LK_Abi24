@@ -1,3 +1,4 @@
+
 package _IF_LK_Abi24;
 
 import gui.GUI;
@@ -13,7 +14,7 @@ public class LehrerLaempel {
 		lieblingsSchueler.append("Moritz");
 		lieblingsSchueler.append("C3PO");
 		lieblingsSchueler.append("R2D2");
-		lieblingsSchueler.append("Gates"); // wir sind ja ne Microsoft Schule...
+		lieblingsSchueler.append("Jobs"); // ***
 		lieblingsSchueler.append("Marvin the Robot");
 	}
 	
@@ -26,3 +27,4 @@ public class LehrerLaempel {
 		new GUI(ll);
 	}
 }
+
