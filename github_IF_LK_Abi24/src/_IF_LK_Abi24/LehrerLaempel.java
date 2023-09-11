@@ -14,7 +14,7 @@ public class LehrerLaempel {
 	}
 	
 	public void lieblingsSchuelerHinzufuegen(String pName) {
-		lieblingsSchueler.append(pName);
+		lieblingsSchueler.append(pName); // neuer Schueler
 	}
 	
 	public static void main(String[] args) {
