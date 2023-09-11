@@ -1,3 +1,4 @@
+
 package _IF_LK_Abi24;
 
 import gui.GUI;
@@ -26,3 +27,4 @@ public class LehrerLaempel {
 		new GUI(ll);
 	}
 }
+
