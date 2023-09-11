@@ -12,7 +12,7 @@ public class LehrerLaempel {
 		lieblingsSchueler.append("Max");
 		lieblingsSchueler.append("Moritz");
 		lieblingsSchueler.append("Onkel Fritz");
-		lieblingsSchueler.append("Marvin the Robot");
+		lieblingsSchueler.append("Marvin the Robot"); // Marvin
 	}
 	
 	public void lieblingsSchuelerHinzufuegen(String pName) {
