@@ -11,7 +11,7 @@ public class LehrerLaempel {
 		lieblingsSchueler = new ListWithViewer<String>();
 		lieblingsSchueler.append("Max");
 		lieblingsSchueler.append("Moritz");
-		lieblingsSchueler.append("C3PO");
+		lieblingsSchueler.append("C3POOO");
 		lieblingsSchueler.append("R2D2");
 		lieblingsSchueler.append("Jobs"); // ***
 		lieblingsSchueler.append("Marvin the Robot");
