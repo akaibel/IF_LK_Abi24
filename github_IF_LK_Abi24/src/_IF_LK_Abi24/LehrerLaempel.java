@@ -13,8 +13,8 @@ public class LehrerLaempel {
 		lieblingsSchueler.append("Moritz");
 		lieblingsSchueler.append("C3PO");
 		lieblingsSchueler.append("R2D2");
-		lieblingsSchueler.append("Gates"); // wir sind ja ne Microsoft Schule...
 		lieblingsSchueler.append("Marvin the Robot");
+		System.out.println("zzz");
 	}
 	
 	public void lieblingsSchuelerHinzufuegen(String pName) {
