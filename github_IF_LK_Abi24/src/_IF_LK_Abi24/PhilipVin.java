@@ -7,7 +7,7 @@ public class PhilipVin {
 		System.out.println("1");
 		//System.out.println("test");
 		System.out.println("Vin ist (nicht) gut in Informatik");
-		System.out.println("Test123");
+		System.out.println("wefcsd");
 		//sdjgashzkdbw
 	}
 
