@@ -5,7 +5,7 @@ public class PhilipVin {
 	public PhilipVin() {
 		// TODO Auto-generated constructor stub
 		System.out.println("1");
-		System.out.println("test");
+		//System.out.println("test");
 		System.out.println("Test123");
 	}
 
