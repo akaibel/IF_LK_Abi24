@@ -4,6 +4,7 @@ public class PhilipVin {
 
 	public PhilipVin() {
 		// TODO Auto-generated constructor stub
+		System.out.println("test");
 	}
 
 	public static void main(String[] args) {
