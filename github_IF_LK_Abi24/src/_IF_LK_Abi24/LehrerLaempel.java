@@ -13,7 +13,7 @@ public class LehrerLaempel {
 		lieblingsSchueler.append("Max");
 		lieblingsSchueler.append("Mooooritz");
 		lieblingsSchueler.append("C3PO");
-		lieblingsSchueler.append("R2D3332");
+		lieblingsSchueler.append("R2D4");
 		lieblingsSchueler.append("Jobs"); // ***
 		lieblingsSchueler.append("Marvin the Robot");
 	}
