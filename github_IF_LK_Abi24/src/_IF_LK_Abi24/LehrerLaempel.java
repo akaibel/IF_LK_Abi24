@@ -14,6 +14,7 @@ public class LehrerLaempel {
 		lieblingsSchueler.append("Mooooritz");
 		lieblingsSchueler.append("C3PO");
 		lieblingsSchueler.append("R2D4");
+		lieblingsSchueler.append("R2D2");
 		lieblingsSchueler.append("Jobs"); // ***
 		lieblingsSchueler.append("Marvin the Robot");
 	}
