@@ -26,7 +26,7 @@ public class LevinHenning {
 	}
 	
 	
-	public static void main(String[] args) {
+SDF 
 		new LevinHenning();
 	}
 }
