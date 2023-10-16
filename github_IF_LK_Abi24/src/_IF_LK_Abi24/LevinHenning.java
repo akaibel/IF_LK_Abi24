@@ -16,7 +16,8 @@ public class LevinHenning {
 		philippi wüsfg
 		henning
 		henning + philip = <3
-		mutti ist vinnisdfdsdsdsd
+		mutti ist vin
+		ddsdsdsdsnisdfdsdsdsd
 		henning rette michSDFSDF
 
 		wer ist die beste mutti levin?
