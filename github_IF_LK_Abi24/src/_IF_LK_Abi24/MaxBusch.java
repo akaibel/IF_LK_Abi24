@@ -4,6 +4,7 @@ public class MaxBusch {
 	public static void main(String[] args) {
 		System.out.println("Schwupp die Wupp da wird nach oben...");
 		System.out.println("schon ein Huhn heraufgezogen!");
+		System.out.println("...schon ein Huhn heraufgezogen!");
 		System.out.println("Schwupp die Wupp jetzt Numero zwei");
 	}
 }
