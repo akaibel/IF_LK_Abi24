@@ -2,8 +2,9 @@ package _IF_LK_Abi24;
 
 public class WiJe {
 	public static int main(String[] args) {
-		System.out.println("test"); //
-		int i = 2+100;
+		System.out.println("AAAHHHH"); //
+		int i = 2+1000000;
+		
 		return i;
 	}
 }
