@@ -2,8 +2,11 @@ package _IF_LK_Abi24;
 
 public class LevinHenning {
 	public LevinHenning() {
-		System.out.println("Lösch dich");
-		
+		System.out.println("LevinHenning");
+		System.out.println("Henningdfsbhfjherbgvhj");
+		System.out.println("Henninggdfsjdfjasj");
+		philippi wüs
+		henning + philip = <3
 	}
 	
 	
