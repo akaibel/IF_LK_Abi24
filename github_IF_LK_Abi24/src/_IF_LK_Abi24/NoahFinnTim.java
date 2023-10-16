@@ -1,5 +1,5 @@
 package gui;
 
-public class NoahFinn {
+public class NoahFinnTim {
     public int a = 10;
 }
