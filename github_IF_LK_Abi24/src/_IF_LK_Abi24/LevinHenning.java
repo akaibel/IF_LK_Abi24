@@ -21,9 +21,15 @@ public class LevinHenning {
 
 		wer ist die beste mutti levin?
 		
+		
+		aaaaaaaa
 		Levinnnnn
 		""";caf,webhgnvfch hwBDN
+<<<<<<< HEAD
 		Test
+=======
+		gfhhhsfhh
+>>>>>>> 4ed6d39038d299e93a4713e487850c5e044f8dd2
 	}
 	
 	
