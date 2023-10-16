@@ -11,7 +11,7 @@ public class LevinHenning {
 		"""
 		System.out.println("Lösch dich");
 		System.out.println("LevinHenning");
-		System.out.println("Henningdfsbhfjherbgvhj");
+		System.out.println("Henningdfsbhfjherbgvhj");ASCD
 		System.out.println("Henninggdfsjdfjasj");
 		philippi wüs
 		henning
