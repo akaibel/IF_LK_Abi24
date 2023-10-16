@@ -13,7 +13,7 @@ public class LevinHenning {
 		System.out.println("LevinHenning");
 		System.out.println("Henningdfsbhfjherbgvhj");ASCD
 		System.out.println("Henninggdfsjdfjasj");
-		philippi wüs
+		philippi wüsfg
 		henning
 		henning + philip = <3
 		mutti ist vinni
@@ -23,14 +23,9 @@ public class LevinHenning {
 		
 		
 		aaaaaaaa
+		erghtrhz
 		Levinnnnn
-		""";caf,webhgnvfch hwBDN
-<<<<<<< HEAD
-		Test
-=======
-		gfhhhsfhh
->>>>>>> 4ed6d39038d299e93a4713e487850c5e044f8dd2
-	}
+
 	
 	
 SDF 
