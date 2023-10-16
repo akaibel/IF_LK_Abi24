@@ -8,6 +8,7 @@ public class LevinHenning {
 		}
 
 		//änderung
+		System.out.println("Lösch dich");
 		
 	}
 	
