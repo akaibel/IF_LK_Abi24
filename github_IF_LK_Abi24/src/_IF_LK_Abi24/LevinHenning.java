@@ -11,13 +11,13 @@ public class LevinHenning {
 		"""
 		System.out.println("Lösch dich");
 		System.out.println("LevinHenning");
-		System.out.println("Henningdfsbhfjherbgvhj");
+		System.out.println("Henningdfsbhfjherbgvhj");ASCD
 		System.out.println("Henninggdfsjdfjasj");
 		philippi wüs
 		henning
 		henning + philip = <3
 		mutti ist vinni
-		henning rette mich
+		henning rette michSDFSDF
 
 		wer ist die beste mutti levin?
 		
