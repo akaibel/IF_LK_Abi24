@@ -1,5 +1,5 @@
 package _IF_LK_Abi24;
 
 public class MarthaCaro {
-	int istj = 72;
+	int istj = 7273;
 }
