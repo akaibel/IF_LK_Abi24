@@ -5,7 +5,10 @@ public class LevinHenning {
 		System.out.println("LevinHenning");
 		System.out.println("Henningdfsbhfjherbgvhj");
 		System.out.println("Henninggdfsjdfjasj");
-		philippi wüs
+
+		for(int i = 0; i < 10_000; i++){
+			System.out.println("Levin  & Henning = Doof");
+		}
 		
 	}
 	
