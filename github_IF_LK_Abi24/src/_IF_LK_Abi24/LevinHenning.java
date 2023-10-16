@@ -7,6 +7,10 @@ public class LevinHenning {
 		System.out.println("Henninggdfsjdfjasj");
 		philippi wüs
 		henning
+		henning + philip = <3
+		mutti ist vinni
+		henning rette mich
+		
 	}
 	
 	
