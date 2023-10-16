@@ -8,17 +8,29 @@ public class LevinHenning {
 		}
 
 		//änderung
+		"""
 		System.out.println("Lösch dich");
 		System.out.println("LevinHenning");
-		System.out.println("Henningdfsbhfjherbgvhj");
+		System.out.println("Henningdfsbhfjherbgvhj");ASCD
 		System.out.println("Henninggdfsjdfjasj");
+		philippi wüs
+		henning
+		henning + philip = <3
+		mutti ist vinnisdfdsdsdsd
+		henning rette michSDFSDF
+
+		wer ist die beste mutti levin?
 		
 		
-		
+		aaaaaaaa
+		Levinnnnn
+		""";caf,webhgnvfch hwBDN
+		gfhhhsfhh
+		#rtrgherhgekheher
 	}
 	
 	
-	public static void main(String[] args) {
+SDF 
 		new LevinHenning();
 	}
 }
