@@ -1,12 +1,12 @@
 package _IF_LK_Abi24;
 
 public class LevinHenning {
-	public LevinHenning() {
+t	public LevinHenning() {
 
 		for(int i = 1; i <= 10_000; i++){
 			System.out.println("Levin & Henning = " + i + "x Doof");
 		}
-
+asd
 		//änderung
 		"""
 		System.out.println("Lösch dich");
@@ -22,8 +22,10 @@ public class LevinHenning {
 		wer ist die beste mutti levin?
 		
 		
+		sdfsdf
 		aaaaaaaa
 		erghtrhz
+		gfhgfgfh
 		Levinnnnn
 
 	
