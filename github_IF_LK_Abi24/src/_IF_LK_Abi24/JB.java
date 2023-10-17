@@ -6,4 +6,8 @@ public class JB {
     	 int n = 100;
     	 return d;
      }
+     public String hallo(){
+	return "Hallo";
 }
+}
+
