@@ -5,4 +5,8 @@ public class JB {
     	 int d=30;
     	 return d;
      }
+     public String hallo(){
+	return "Hallo";
 }
+}
+
